@@ -1,2 +1,2 @@
 # datasciencecoursera
-* Hello peer!
+* Hello, Peer!
